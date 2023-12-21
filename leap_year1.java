@@ -1,4 +1,4 @@
-class leapyear
+class leap
 {
 public static void main(String args[])
 {
